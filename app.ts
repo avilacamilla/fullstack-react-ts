@@ -21,6 +21,10 @@ const arrayPerson: Person[] = [
     secondPerson
 ]
 
-const personNumber: number[] = [
+const arrayPersonNumber: number[] = [
     12, 13, 21
+]
+
+const arrayNamePersons: string[] = [
+    'Camilla', 'Otto', 'Rafael'
 ]
