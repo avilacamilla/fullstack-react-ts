@@ -20,3 +20,7 @@ const arrayPerson: Person[] = [
     firstPerson,
     secondPerson
 ]
+
+const personNumber: number[] = [
+    12, 13, 21
+]
