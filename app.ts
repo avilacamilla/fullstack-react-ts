@@ -5,8 +5,13 @@ interface Person {
     address?: string //'?' antes torna esse objeto opcional
 }
 
-const pessoa: Person = {
+const firstPerson: Person = {
     name: 'Camilla',
     age: 29,
-    address: 'Rua das Flores - Girassol - Rio de Janeiro, RJ'
+    address: 'Rua das Flores - Girassol - Rio de Janeiro, RJ',
+}
+
+const secondPerson: Person = {
+    name: 'Otto',
+    age: 4,
 }
