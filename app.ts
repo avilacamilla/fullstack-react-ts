@@ -15,3 +15,8 @@ const secondPerson: Person = {
     name: 'Otto',
     age: 4,
 }
+
+const arrayPerson: Person[] = [
+    firstPerson,
+    secondPerson
+]
